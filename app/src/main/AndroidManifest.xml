@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".startActivityForResult_send"></activity>
+        <activity android:name=".startActivityForResult_get"></activity>
+        <activity android:name=".startActivityForResult_send" />
         <activity android:name=".Sub_Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
